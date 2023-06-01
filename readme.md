@@ -4,6 +4,7 @@
 -- https://drive.google.com/file/d/1-VhZMjlX7u2edGCqUXeRCsqK4ESOWu7c/view?usp=sharing, 
 -- https://drive.google.com/file/d/1L9PPqJevngIQPWQpb0kIXK8uSB0_1rnt/view?usp=sharing, 
 -- https://drive.google.com/file/d/1LGVQ4Gff1_kr2tiEEBKLSBdOyIMGbt-I/view?usp=sharing
+-- Copy the downloaded datasets into folder _crisprbank_.
 
 - Expected Output:
 -- Result_TargetedSequences.csv: Extracted targeting DNA Codes.
