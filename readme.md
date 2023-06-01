@@ -1,9 +1,9 @@
 # Preliminary
 
 - to run the notebook.iynb, please download the DS-CRISPR bank of 26-nt at: 
-https://drive.google.com/file/d/1-VhZMjlX7u2edGCqUXeRCsqK4ESOWu7c/view?usp=sharing, 
-https://drive.google.com/file/d/1L9PPqJevngIQPWQpb0kIXK8uSB0_1rnt/view?usp=sharing, 
-https://drive.google.com/file/d/1LGVQ4Gff1_kr2tiEEBKLSBdOyIMGbt-I/view?usp=sharing
+-- https://drive.google.com/file/d/1-VhZMjlX7u2edGCqUXeRCsqK4ESOWu7c/view?usp=sharing, 
+-- https://drive.google.com/file/d/1L9PPqJevngIQPWQpb0kIXK8uSB0_1rnt/view?usp=sharing, 
+-- https://drive.google.com/file/d/1LGVQ4Gff1_kr2tiEEBKLSBdOyIMGbt-I/view?usp=sharing
 
 - Expected Output:
 -- Result_TargetedSequences.csv: Extracted targeting DNA Codes.
@@ -11,13 +11,13 @@ https://drive.google.com/file/d/1LGVQ4Gff1_kr2tiEEBKLSBdOyIMGbt-I/view?usp=shari
 -- Result_mRNA.csv: Optimized gRNA (small) Molecule.
 -- AlphaFold.csv: Meta-data file to test on AlphaFold 2 using ColabFold API.
 
-- trainset (DNA Codes)
+- **trainset** (DNA Codes)
 CTLA-4:     https://www.ncbi.nlm.nih.gov/nuccore/M74363.1?report=fasta
 CD80:       https://www.ncbi.nlm.nih.gov/nuccore/AH002809.2?report=fasta
 CD9:        https://www.ncbi.nlm.nih.gov/nuccore/AH006868.3?report=fasta
 CD74:       https://www.ncbi.nlm.nih.gov/nuccore/AH001484.2?report=fasta
 
--testset (Protein
+-**testset** (Protein
 Uniprot
 >sp|P04233|HG2A_HUMAN HLA class II histocompatibility antigen gamma chain OS=Homo sapiens OX=9606 GN=CD74 PE=1 SV=3
 MHRRRSRSCREDQKPVMDDQRDLISNNEQLPMLGRRPGAPESKCSRGALYTGFSILVTLL
