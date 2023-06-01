@@ -17,8 +17,7 @@ Expected Output:
 - CD9:        https://www.ncbi.nlm.nih.gov/nuccore/AH006868.3?report=fasta
 - CD74:       https://www.ncbi.nlm.nih.gov/nuccore/AH001484.2?report=fasta
 
-**testset** (Protein
-Uniprot
+**testset** (Protein: Uniprot)
 >sp|P16410|CTLA4_HUMAN Cytotoxic T-lymphocyte protein 4 OS=Homo sapiens OX=9606 GN=CTLA4 PE=1 SV=3
 MACLGFQRHKAQLNLATRTWPCTLLFFLLFIPVFCKAMHVAQPAVVLASSRGIASFVCEY
 ASPGKATEVRVTVLRQADSQVTEVCAATYMMGNELTFLDDSICTGTSSGNQVNLTIQGLR
