@@ -1,4 +1,5 @@
 # Preliminary
+
 - to run the notebook.iynb, please download the DS-CRISPR bank of 26-nt at: 
 https://drive.google.com/file/d/1-VhZMjlX7u2edGCqUXeRCsqK4ESOWu7c/view?usp=sharing, 
 https://drive.google.com/file/d/1L9PPqJevngIQPWQpb0kIXK8uSB0_1rnt/view?usp=sharing, 
